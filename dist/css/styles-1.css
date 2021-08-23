@@ -11217,11 +11217,6 @@ textarea.form-control-lg {
   .text-xxl-center {
     text-align: center !important;
   }
-
-  .bestpaper {
-    font-weight: bold;
-    color: #e65c00;
-    font-size: 12.25px; }
 }
 @media (min-width: 1200px) {
   .fs-1 {

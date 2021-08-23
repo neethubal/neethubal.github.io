@@ -41,7 +41,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 186, 65, 100;
+  --bs-primary-rgb: 189, 93, 56;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -236,11 +236,11 @@ sup {
 }
 
 a {
-  color: #BA4164;
+  color: #bd5d38;
   text-decoration: underline;
 }
 a:hover {
-  color: #75142E;
+  color: #974a2d;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11217,11 +11217,6 @@ textarea.form-control-lg {
   .text-xxl-center {
     text-align: center !important;
   }
-
-  .bestpaper {
-    font-weight: bold;
-    color: #e65c00;
-    font-size: 12.25px; }
 }
 @media (min-width: 1200px) {
   .fs-1 {
@@ -11382,7 +11377,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #BA4164;
+  background-color: #495057;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -11392,7 +11387,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #75142E;
+  background-color: #bd5d38;
 }
 
 .dev-icons {
